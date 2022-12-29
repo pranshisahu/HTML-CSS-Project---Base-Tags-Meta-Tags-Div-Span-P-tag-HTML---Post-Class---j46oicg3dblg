@@ -1,4 +1,4 @@
-const contents = document.querySelectorAll('.content')
+/*const contents = document.querySelectorAll('.content')
 const listItems = document.querySelectorAll('nav ul li')
 
 listItems.forEach((item, idx) => {
@@ -17,4 +17,4 @@ function hideAllContents() {
 
 function hideAllItems() {
     listItems.forEach(item => item.classList.remove('active'))
-}
+}*/
